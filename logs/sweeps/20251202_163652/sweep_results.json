@@ -1,0 +1,482 @@
+[
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.1_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.95_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epsexp_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.2_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.3_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr3_seed102",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed101",
+    "status": "fail",
+    "code": 2
+  },
+  {
+    "config": "a0.15_g0.99_epslinear_s0.5_e0.01_ep3000_rps0.5_mr5_seed102",
+    "status": "fail",
+    "code": 2
+  }
+]
